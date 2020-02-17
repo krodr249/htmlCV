@@ -1,1 +1,1 @@
-# htmlCV
+# Template for an HTML CV
